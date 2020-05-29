@@ -1,5 +1,5 @@
-# Programming of Supercomputers #
-This repository contains *Programming of Supercomputers* assignments for Technische Universität München (TUM) [IN2190] course in winter 2018.
+# Master Practical Course: Programming of Supercomputers #
+This repository contains *Master Practical Course: Programming of Supercomputers* assignments for Technische Universität München (TUM) [IN2190] course in winter 2018.
 
 There are 4 assignments in repository. Individual assignment introduction is in assignment folder.
 
