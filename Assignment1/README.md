@@ -1,0 +1,7 @@
+# Assignment 1: Single Node Performance #
+## Introduction ##
+ Systems that reach hundreds of TeraFLOPS to multiple PetaFLOPS of sustained computing performance are considered supercomputers today. These levels of performance are achieved by aggregating the performance of several computing nodes interconnected by a high-performance network. The performance of each individual node is therefore very important for the overall performance of any application.
+
+ Current computing nodes are parallel computers with several cores and a hierarchical memory system. Several cores are integrated into a processor. Current nodes usually have multiple processors, each plugged to a socket in its main board. Most nodes today have between 2 and 4 sockets, and each socket is connected to separate memory banks. In other words, these systems have Non-Uniﬁed Memory Access (NUMA). Because of this, variable memory latencies and bandwidth are measured at individual cores. These NUMA systems, with variable memory performance and large amounts of available parallelism, pose great optimization challenges today.
+
+ In this assignment, students will learn how to optimize applications for absolute performance and scalability on a single node. The improvements provided by single node optimizations later multiply when scaling applications to multiple nodes.
